@@ -22,7 +22,7 @@ An automated classifier for loan portfolios under the **IFRS 9** accounting stan
 ## Technology Stack
 * **Language:** Python 3.x
 * **Libraries:** Pandas, NumPy
-* **Environment:** Google Colab / Jupyter Notebooks
+* **Environment:** Google Colab
 
 ## Contact
 For inquiries regarding these models or collaboration opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/ikhwan-afif-9151b0269/).
